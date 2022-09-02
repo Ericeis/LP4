@@ -1,0 +1,15 @@
+﻿.choosen-image {
+    front-size: 158px;
+    text-shadow:0 0 20px #ff0000;
+}
+
+.image-to-choose{
+    front-size: 84px;
+    text-shadow: 0 0 20px #ff6a00;
+    cursor:pointer;
+}
+
+.image-to-choose:hover{
+    transform:scale(1.5);
+}
+

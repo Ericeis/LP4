@@ -1,0 +1,15 @@
+.choosen-image[b-w6ycqlbhf6] {
+    front-size: 158px;
+    text-shadow:0 0 20px #ff0000;
+}
+
+.image-to-choose[b-w6ycqlbhf6]{
+    front-size: 84px;
+    text-shadow: 0 0 20px #ff6a00;
+    cursor:pointer;
+}
+
+.image-to-choose:hover[b-w6ycqlbhf6]{
+    transform:scale(1.5);
+}
+
